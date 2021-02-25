@@ -1,15 +1,17 @@
 ﻿# Hospital Scheduling Program
 
-This is the repository for unit 1
+A program for scheduling hospital shifts fairly.
 
 ## Installation
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the packages.
+
 ```bash
-git clone https://github.com/principle105/hospitalschedulingprogram.git
+pip3 install -r requirements.txt
 ```
 
 ## Running
-
-```python
-python main.py
+This bot is built for [Python 3.8.0](https://www.python.org/downloads/release/python-380/)
+```bash
+python3 main.py
 ```
